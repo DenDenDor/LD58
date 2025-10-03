@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 16
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c830b45ff415c9c41885298ccdab52af, type: 3}
+  m_Name: HierarchyCommonData
+  m_EditorClassIdentifier: 
+  ScenesTabs:
+  - pin: 0
+    path:
+    - Assets/Scenes/Game.unity
+    guid:
+    - 1a5e76e59af5a11449ca44d6ece12f65
+  - pin: 0
+    path:
+    - Assets/Scenes/SampleScene.unity
+    guid:
+    - 8c9cfa26abfee488c85f1582747f6a02
+  - pin: 0
+    path:
+    - Assets/Scenes/Boostrap.unity
+    guid:
+    - ff139d7dc3a34884f9e288cd4e72d664
+  - pin: 0
+    path:
+    - Assets/Scenes/Battle.unity
+    guid:
+    - 44e359281e899a5499882579f4806a3a
+  - pin: 0
+    path:
+    - 
+    guid:
+    - 
+  - pin: 0
+    path:
+    - Assets/Scenes/Finish.unity
+    guid:
+    - 8fa09228221a34c34a219bf5ba7d3a6f
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/13 Example - Damage
+      Effects - M3DText.unity
+    guid:
+    - 8251d7a5151799b42a47de3b89bc36b5
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/14 Example - Particle
+      System Module - M3DText.unity
+    guid:
+    - 120e5dee5cc799145b4487c7d1ac2f20
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/15 Horizontal Selector
+      - M3DText.unity
+    guid:
+    - ce21c6f0b4e49df48a811f302e2ad45b
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/16 Screen Space Canvas
+      - M3DText.unity
+    guid:
+    - 090a8cff4d385fa4a94b8925b278451f
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/12 Example - Shop Signs
+      - M3DText.unity
+    guid:
+    - 2d6446380efc921419b30d3c6a7b0ea8
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/11 Tutoiral - Modules
+      - M3DText.unity
+    guid:
+    - 502bca9b699baf644982ae7b333af620
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/10 Example - Countdown
+      with Modules- M3DText.unity
+    guid:
+    - 3280458998897744a8cc29f4a3e6ab9e
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/09 Example - Typewriter
+      - M3DText.unity
+    guid:
+    - 4042ae0d6ae600d4bbc35ce016258e60
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/07 Lists - M3DText.unity
+    guid:
+    - da78d018c57c70a4ca7b86e17284b362
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/06 Fonts - M3DText.unity
+    guid:
+    - bbae79b044054c945a45367ec40abac6
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/04 Slider - M3DText.unity
+    guid:
+    - 0dacefec6c79021459183cc5401ef056
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/05 Toggle - M3DText.unity
+    guid:
+    - 92b7a56612eb95046880366a43fd6489
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/03 Button - M3DText.unity
+    guid:
+    - 9e6e26d89ec121c4c835b42f5604f9c1
+  - pin: 0
+    path:
+    - Assets/Tiny Giant Studio/Modular 3D Text/Sample Scenes/02 Input Field - M3DText.unity
+    guid:
+    - b8ddcd59f43c1764f9795c89316b2e13
+  HasCustomIconKeys: []
+  HidedComponentsIconsValues: []
+  HidedComponentsIconsKeys: []
+  FoolderBookmarkList:
+  - scrollY: 0
+    slots: []
+    expanded: 1
+    InstanceID: 183745401
+    ShowContent: 0
+    name: Default
+    isDefault: 1
+    draw_BgColor: 0
+    color_BgColor: {r: 0, g: 0, b: 0, a: 0}
+  PlayModeSaverPersistScripts: []
